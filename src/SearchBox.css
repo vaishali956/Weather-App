@@ -1,0 +1,15 @@
+
+.SearchBox{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.formWtApp{
+    padding-bottom: 1%;
+    height: 20%;
+    width: 20%;
+}
+
+#city{
+    box-shadow: 1px 1px 1px white,  1rem 1rem 1rem #6ba3b5;
+}
